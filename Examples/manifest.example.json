@@ -1,0 +1,6 @@
+{
+  "Version": "1.1.0",
+  "DownloadUrl": "https://example.com/updates/MyApplication-1.1.0.zip",
+  "Sha256": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+  "ReleaseNotes": "Исправлены ошибки и добавлены новые функции."
+}
